@@ -1,7 +1,7 @@
-/* Arma OPS Basic Descrition.ext */
+/* Arma OPS Basic Description.ext */
 
 author="OPS";
-OnLoadName = "Eample Mission";
+OnLoadName = "Example Mission";
 OnLoadMission = "A Quick Start to Mission making, about two too three lines of text.";
 loadScreen = "img\loadScreen.paa";
 
@@ -37,10 +37,6 @@ showHUD[] = {
 /* removes the abiliy to use the side Global and local channels */ 
 
 disableChannels[]={0,1,2,6};
-
-
-
-
 
 /* Example Music */ 
 
